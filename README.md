@@ -2,13 +2,13 @@ This is the backend for my PawAdopt project.
 
 How to run:
 
-commands to run in linux:
-source venv/bin/activate
-sudo apt-get update
-sudo apt install python3-pip
-pip install -r requirements.txt
-sudo apt install python3-flask
-flask run
+commands to run in linux:  
+source venv/bin/activate  
+sudo apt-get update  
+sudo apt install python3-pip  
+pip install -r requirements.txt  
+sudo apt install python3-flask  
+flask run  
 
 commands to run in windows:
 .\venv\bin\activate
