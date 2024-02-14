@@ -49,8 +49,8 @@ def create_app(db_url=None):
     migrate=Migrate(app, db)
     api=Api(app)
 
-    app.config["JWT_SECRET_KEY"]="731284239ruhjwkfq983271učedjqwčlkd"
-    app.config['SECRET_KEY'] = 'akjsdhwdf8234r2039428rfhujalqjfklqjdčqd'
+    app.config["JWT_SECRET_KEY"]=""
+    app.config['SECRET_KEY'] = ''
     jwt=JWTManager(app)
    
 
