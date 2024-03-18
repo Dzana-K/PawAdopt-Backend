@@ -1,4 +1,4 @@
-This is the backend for my PawAdopt project.
+This is the backend for my PawAdopt application, implemented with Flask.
 
 # How to run:
 
